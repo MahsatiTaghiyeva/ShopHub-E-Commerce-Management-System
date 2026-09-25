@@ -1,0 +1,14 @@
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/bin/Debug/net10.0/ShopHub
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/bin/Debug/net10.0/ShopHub.deps.json
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/bin/Debug/net10.0/ShopHub.runtimeconfig.json
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/bin/Debug/net10.0/ShopHub.dll
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/bin/Debug/net10.0/ShopHub.pdb
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ShopHub.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ShopHub.AssemblyInfoInputs.cache
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ShopHub.AssemblyInfo.cs
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ShopHub.csproj.CoreCompileInputs.cache
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ShopHub.dll
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/refint/ShopHub.dll
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ShopHub.pdb
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ShopHub.genruntimeconfig.cache
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ref/ShopHub.dll
