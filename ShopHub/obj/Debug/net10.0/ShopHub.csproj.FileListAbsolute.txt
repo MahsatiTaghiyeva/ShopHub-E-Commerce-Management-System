@@ -12,3 +12,4 @@
 /home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ShopHub.pdb
 /home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ShopHub.genruntimeconfig.cache
 /home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ref/ShopHub.dll
+/home/hp/ShopHub-E-Commerce-Management-System/ShopHub/obj/Debug/net10.0/ShopHub.sourcelink.json
