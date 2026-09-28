@@ -15,11 +15,10 @@ public class ProductCollection
     {
         get
         {
-            if (index < 0 ||
-                index >= _products.Length)
+            if (index < 0 || index >= _products.Length)
             {
                 throw new IndexOutOfRangeException(
-                    "Invalid product index.");
+                    "No product with such index.");
             }
 
             return _products[index];
