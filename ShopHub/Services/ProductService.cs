@@ -255,4 +255,10 @@ public class ProductService : IProductService
                 x => x.Key,
                 x => x.Count());
     }
+    public List<Product> GetDeletedProducts()
+{
+    return _products
+        .Where(x => x.IsDeleted)
+        .ToList();
+}
 }

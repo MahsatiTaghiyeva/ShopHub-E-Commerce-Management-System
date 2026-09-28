@@ -39,4 +39,5 @@ public interface IProductService
     bool AreAllProductsInValidStock();
 
     Dictionary<string, int> GetProductCountByCategory();
+    List<Product> GetDeletedProducts();
 }
